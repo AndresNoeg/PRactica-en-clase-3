@@ -23,7 +23,9 @@ print(faren,"°F es igual a: ", cel, "°C")
 
 print(" ")
 
-![image](https://github.com/user-attachments/assets/e4b01d88-9429-4da3-82cf-7f1166f1279f)
+![image](https://github.com/user-attachments/assets/f10769c6-a1db-4b16-afb7-374cfe266e81)
 
-![image](https://github.com/user-attachments/assets/e92f7ae7-d3e0-4dfc-bef1-fc2c405441a7)
+![image](https://github.com/user-attachments/assets/011ea2a8-1631-43b5-8623-e48212d6b126)
+
+
 
