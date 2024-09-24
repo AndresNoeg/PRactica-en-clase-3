@@ -2,7 +2,7 @@
 
 print (" ")
 
-print ("Andres Noe Gomez Garcia Kilometros y litros en moto")
+print ("Andres Noe Gomez Garcia Farenheit a celsius")
 
 print(" ")
 
